@@ -7,9 +7,9 @@ using std::endl;
 
 
 namespace z2 {
-    void test2_1();
-    void test2_2();
-    void test2_3();
+    void test1();
+    void test2();
+    void test3();
 };
 
 void f2();
