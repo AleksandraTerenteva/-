@@ -13,7 +13,7 @@ namespace z3 {
     void test5();
 };
 
-void fz3();
+void f3();
 
 constexpr double eps = 1e-6;
 
